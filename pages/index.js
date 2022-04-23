@@ -34,7 +34,7 @@ export default function Home() {
           <div className="grid grid-cols-12 mt-16 gap-4">
             <div className="col-span-12 md:col-span-4 text-center md:text-left">
               <CardFeature title="Small Size">
-                Under <span className="text-red-500">1mb</span> you can save your time to organize a files and easy to find a files when it's an emergency
+                Under <span className="text-red-500">1mb</span> you can save your time to organize a files and easy to find a files when it&apos;s an emergency
               </CardFeature>
               
             </div>
@@ -47,7 +47,7 @@ export default function Home() {
             <div className="col-span-12 md:col-span-4 text-center md:text-left">
               <CardFeature title="Easy To Use">
                 Just copy your <span className="text-red-500">path</span> you want to organize
-                and auto-manage-files can do the rest!
+                and auto-manage-files can do the rest
               </CardFeature>
             </div>
             
